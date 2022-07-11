@@ -8,14 +8,14 @@
     "text": "Chaitali Patel"
   },
   "text": {
-    "more": "The nodes are Collaboration Tools Subcategory and Twitter Name and egdes are relstionship between them.",
-    "intro": "Spaced Database Collaboration Tools Subcategory/ Twitter Name\n",
+    "more": "The nodes are Collaboration Tools Subcategory and Twitter Location and egdes are relstionship between them.",
+    "intro": "Spaced Database Collaboration Tools Subcategory/ Twitter Location\n",
     "title": "Spaced Twitter Database"
   },
   "legend": {
     "edgeLabel": "Relationship",
     "colorLabel": "Grey",
-    "nodeLabel": "Collaboration Tools Subcategory/ Twitter Name"
+    "nodeLabel": "Collaboration Tools Subcategory/ Twitter Location"
   },
   "features": {
     "search": true,
